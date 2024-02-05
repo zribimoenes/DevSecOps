@@ -15,7 +15,7 @@ pipeline {
         }
         stage('Checkout from Git') {
             steps {
-                git branch: 'master', url: 'https://github.com/AmanPathak-DevOps/End-to-End-Kubernetes-DevSecOps-Tetris-Project.git'
+                git branch: 'master', url: 'https://gitlab.com/houcemkhlifi.devops/end-to-end-kubernetes-devsecops-tetris-project-houcem.git'
             }
         }
         stage('Sonarqube Analysis') {
@@ -87,7 +87,7 @@ pipeline {
         }
         stage('Checkout Code') {
             steps {
-                git branch: 'master', url: 'https://github.com/AmanPathak-DevOps/End-to-End-Kubernetes-DevSecOps-Tetris-Project.git'
+                git branch: 'master', url: 'https://gitlab.com/houcemkhlifi.devops/end-to-end-kubernetes-devsecops-tetris-project-houcem.git'
             }
         }
         stage('Update Deployment file') {
