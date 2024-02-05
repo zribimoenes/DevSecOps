@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: houcemdevops/tetrisv1:5
+        image: houcemdevops/tetrisv2:5
         ports:
         - containerPort: 3000
 ---
