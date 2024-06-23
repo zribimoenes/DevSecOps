@@ -1,14 +1,3 @@
-# 🚀 End-to-End DevSecOps Kubernetes Project 🌐
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-Mastery-brightgreen)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet)
-![Jenkins](https://img.shields.io/badge/Jenkins-Automation-orange)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-Continuous%20Delivery-blue)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
-![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-9cf)
-
 
 ![Infrastructure Diagram](assets/Infra.gif)
 
@@ -27,12 +16,12 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AmanPathak-DevOps/End-to-End-Kubernetes-DevSecOps-Tetris-Project.git
+   git clone https://gitlab.com/houcemkhlifi.devops/end-to-end-kubernetes-devsecops-tetris-project-houcem.git
 2. **Explore the Directories:**
    Navigate into each directory to find detailed scripts, pipelines, and configurations.
 
 3. **Follow the Blog:**
-   Implementation details and insights are documented in the associated [blog post](https://amanpathakdevops.medium.com/devsecops-mastery-a-step-by-step-guide-to-deploying-tetris-on-aws-eks-with-jenkins-and-argocd-3adcf21b3120).
+   Implementation details and insights are documented in the associated [blog post](http://wiki.efi-academy.local/en/Projet-DevSecOps).
 
 ## Tools Explored 🛠️
 1. **Jenkins:** Automated CI/CD pipelines
@@ -45,10 +34,5 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
 8. **Terraform:** Infrastructure as Code for AWS EKS
 
 ## Blog Implementation 📝
-   To implement this project, follow the step-by-step guide in our detailed [blog post](https://amanpathakdevops.medium.com/devsecops-mastery-a-step-by-step-guide-to-deploying-tetris-on-aws-eks-with-jenkins-and-argocd-3adcf21b3120). Learn how each tool plays a crucial role in achieving DevSecOps excellence.
+   To implement this project, follow the step-by-step guide in our detailed [blog post](http://wiki.efi-academy.local/en/Projet-DevSecOps). Learn how each tool plays a crucial role in achieving DevSecOps excellence.
 
-## Acknowledgments 🙌
-   Special thanks to the open-source community and the contributors who make learning and collaboration an incredible journey.
-
-## License 📄
-   This project is licensed under the Apache-2.0 license see the [LICENSE](http://www.apache.org/licenses/) file for details.
