@@ -21,7 +21,7 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
    Navigate into each directory to find detailed scripts, pipelines, and configurations.
 
 3. **Follow the Blog:**
-   Implementation details and insights are documented in the associated [blog post](http://wiki.efi-academy.local/en/Projet-DevSecOps).
+   Implementation details and insights are documented in the associated [blog post](http://wiki.efi-academy.local/fr/DevOps/Projets/Deploy-Tetris-EKS).
 
 ## Tools Explored 🛠️
 1. **Jenkins:** Automated CI/CD pipelines
@@ -34,5 +34,5 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
 8. **Terraform:** Infrastructure as Code for AWS EKS
 
 ## Blog Implementation 📝
-   To implement this project, follow the step-by-step guide in our detailed [blog post](http://wiki.efi-academy.local/en/Projet-DevSecOps). Learn how each tool plays a crucial role in achieving DevSecOps excellence.
+   To implement this project, follow the step-by-step guide in our detailed [blog post](http://wiki.efi-academy.local/fr/DevOps/Projets/Deploy-Tetris-EKS). Learn how each tool plays a crucial role in achieving DevSecOps excellence.
 
