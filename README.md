@@ -16,7 +16,7 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://gitlab.com/houcemkhlifi.devops/end-to-end-kubernetes-devsecops-tetris-project-houcem.git
+   git clone https://repo-dev.efi-academy.com/houcem/end-to-end-kubernetes-devsecops-tetris-project-houcem.git
 2. **Explore the Directories:**
    Navigate into each directory to find detailed scripts, pipelines, and configurations.
 
