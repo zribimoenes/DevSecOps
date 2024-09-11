@@ -17,7 +17,7 @@ spec:
         - name: my-registry-secret
       containers:
       - name: tetris
-        image: registry.efi-academy.com/tetris/tetrisv1:8
+        image: registry.efi-academy.com/tetris/tetrisv2
         ports:
         - containerPort: 3000
 ---
