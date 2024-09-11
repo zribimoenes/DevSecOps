@@ -13,9 +13,11 @@ spec:
       labels:
         app: tetris
     spec:
+      imagePullSecrets:
+        - name: my-registry-secret
       containers:
       - name: tetris
-        image: houcemdevops/tetrisv2:1
+        image: registry.efi-academy.com/tetris/tetrisv1:6
         ports:
         - containerPort: 3000
 ---
