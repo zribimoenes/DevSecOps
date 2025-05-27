@@ -17,7 +17,7 @@ spec:
         - name: my-registry-secret
       containers:
       - name: tetris
-        image: houcemdevops/tetrisv1:2
+        image: houcemdevops/tetrisv1:3
         ports:
         - containerPort: 3000
 ---
