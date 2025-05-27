@@ -13,8 +13,8 @@ spec:
       labels:
         app: tetris
     spec:
-      imagePullSecrets:
-        - name: my-registry-secret
+      #imagePullSecrets:
+       # - name: my-registry-secret
       containers:
       - name: tetris
         image: houcemdevops/tetrisv1:3
