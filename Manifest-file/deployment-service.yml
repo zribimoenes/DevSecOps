@@ -17,7 +17,7 @@ spec:
        # - name: my-registry-secret
       containers:
       - name: tetris
-        image: moenesz/tetrisv1:15
+        image: moenesz/tetrisv1:18
         ports:
         - containerPort: 3000
 ---
